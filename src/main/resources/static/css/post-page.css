@@ -1,0 +1,42 @@
+.post-container{
+    padding: 130px 100px;
+}
+.card{
+    border: none;
+}
+.card, .card-headers, .card-footer {
+    background-color: #f7f9f9;
+}
+h5{
+    font-size: 1.85em;
+}
+.comment-username{
+    font-size: 1.2em;
+    color: #79389c ;
+}
+.d-flex{
+    margin-top:10px;
+}
+.post-date{
+    margin-bottom: 28px;
+    font-size: 15px;
+    color: rgb(82, 83, 85);
+}
+#comment-date{
+    font-size: 13px;
+    color: rgb(82, 83, 85);
+
+}
+#icons-buttons2{
+    width: 28px;
+    float: right;
+    margin: 5px;
+}
+label{
+    margin-top: 30px;
+    font-weight: bold;
+    color: rgb(41, 41, 41);
+}
+#comment-btn{
+    margin-top: 15px;
+}

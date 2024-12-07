@@ -1,0 +1,11 @@
+.new-post-container{
+    padding: 150px;
+}
+label{
+    font-weight:600;
+    margin-top: 20px;
+}
+#publ-opt{
+    margin-top: 20px;
+    margin-right: 10px;
+}

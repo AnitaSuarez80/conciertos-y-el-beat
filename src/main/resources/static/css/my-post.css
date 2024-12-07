@@ -1,0 +1,26 @@
+.options-icons{
+    float: right;
+}
+#icons-buttons{
+    width: 38px;
+    margin-bottom: 3px;
+}
+#btn-show{
+    margin-right: 8px;
+}
+.post-date{
+    color: rgb(82, 83, 85);
+    font-size: 15px;
+}
+.home-posts{
+    
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 6; /* Limita el texto a 6 líneas */
+        overflow: hidden;
+        text-overflow: ellipsis;
+        height: calc(1.2em * 6); /* Ajusta esta altura según el line-height de tu texto */
+        line-height: 1.2; /* Asegúrate de que coincide con la altura de línea de tu texto */
+    
+    
+}
